@@ -1,0 +1,16 @@
+com/example/uebung05_hessler_schnedlitz/MainActivity.java
+ com.example.uebung05_hessler_schnedlitz.MainActivity
+ com.example.uebung05_hessler_schnedlitz.MainActivity$1
+com/example/uebung05_hessler_schnedlitz/ZodiacSigns.java
+ com.example.uebung05_hessler_schnedlitz.ZodiacSigns
+ com.example.uebung05_hessler_schnedlitz.ZodiacSigns$1
+com/example/uebung05_hessler_schnedlitz/BuildConfig.java
+ com.example.uebung05_hessler_schnedlitz.BuildConfig
+com/example/uebung05_hessler_schnedlitz/User.java
+ com.example.uebung05_hessler_schnedlitz.User
+ com.example.uebung05_hessler_schnedlitz.User$1
+com/example/uebung05_hessler_schnedlitz/Home.java
+ com.example.uebung05_hessler_schnedlitz.Home
+ com.example.uebung05_hessler_schnedlitz.Home$1
+ com.example.uebung05_hessler_schnedlitz.Home$2
+ com.example.uebung05_hessler_schnedlitz.Home$3
